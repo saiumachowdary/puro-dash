@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: purogene
+Version: 0.1.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pandas
+Requires-Dist: mysql-connector-python
+Requires-Dist: ollama
+Requires-Dist: sqlalchemy
+Dynamic: requires-dist
